@@ -1,4 +1,5 @@
 # SmallestMvvm for Xamarin Forms API
+
 A 'Hello SmallestMvvm' demonstration of SmallestMvvm for Xamarin Forms is available at https://github.com/Xamtastic/SmallestMvvmDemo
 
 The Nuget Package is at the following link:
@@ -8,6 +9,8 @@ The Nuget Package Manager command is:
 ```
 PM> Install-Package Com.Xamtastic.Patterns.SmallestMvvm
 ```
+
+The Nuget package currently has a dependency on Xamarin.Forms 1.4.4.6392 however if you want to alter this, just download the code, alter it yourself, and recompile.
 
 ViewModel injection is achieved via a page class decoration, where the page implements PageBase, which itself implements ContentPage:
 
