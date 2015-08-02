@@ -2,6 +2,9 @@
 
 A 'Hello SmallestMvvm' demonstration of SmallestMvvm for Xamarin Forms is available at https://github.com/Xamtastic/SmallestMvvmDemo
 
+And I've blogged it here:
+http://xamtastic.com/?page_id=1581
+
 The Nuget Package is at the following link:
 https://www.nuget.org/packages/Com.Xamtastic.Patterns.SmallestMvvm
 
