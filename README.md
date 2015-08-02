@@ -197,5 +197,5 @@ To support Scalability, the INavigationManager interface is declared as follows:
     }
 ```
 
-The code for the Nuget Package is at the following link:
-https://github.com/Xamtastic/SmallestMvvm
+The code for the demo is at the following link:
+https://github.com/Xamtastic/SmallestMvvmDemo
