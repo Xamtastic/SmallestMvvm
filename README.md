@@ -1,7 +1,5 @@
 # SmallestMvvm for Xamarin Forms API
 
-The api is professionally documented here: http://www.xamtastic.com/docs/smallestmvvm
-
 A 'Hello SmallestMvvm' demonstration of SmallestMvvm for Xamarin Forms is available at https://github.com/Xamtastic/SmallestMvvmDemo
 
 The Nuget Package is at the following link:
